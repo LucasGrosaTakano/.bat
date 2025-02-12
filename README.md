@@ -12,9 +12,11 @@ __Escreve na tela__
 ```markdown
 echo
 ```
-__Exemplo__: 
+__Exemplo__:
+
 ![](https://media.discordapp.net/attachments/1193247323413823558/1339343734613082132/image.png?ex=67ae608e&is=67ad0f0e&hm=532107ce9894cddcafe30df2f308487a1e9218e922612b34de19bbe02c9f739f&=&format=webp&quality=lossless)
 __Resultado no prompt de comando__:
+
 ![](https://media.discordapp.net/attachments/850755386549338122/1339344204404621333/image.png?ex=67ae60fe&is=67ad0f7e&hm=9298c92cb3a0def6c26b5beb3f266add2e599b43f6856cdc720de6b709e8dcbc&=&format=webp&quality=lossless)
 
 ### 
@@ -23,8 +25,10 @@ __Cria um diretório__
 mkdir (nome do diretório)
 ```
 __Exemplo__: 
+
 ![](https://media.discordapp.net/attachments/850755386549338122/1339345319623921754/image.png?ex=67ae6208&is=67ad1088&hm=b65cbd551e212d7c45610bdeb795473c42a70a686ea7bf161a947614d18646ec&=&format=webp&quality=lossless)
 __Resultado__: 
+
 ![](https://media.discordapp.net/attachments/850755386549338122/1339345883208093717/image.png?ex=67ae628e&is=67ad110e&hm=c176cc871d7ce46a6558cf748ea1e5fed0c703c83b8de8b33b4c92d79e92154a&=&format=webp&quality=lossless)
 
 ### 
