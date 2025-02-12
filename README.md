@@ -7,7 +7,7 @@ em um __prompt__ __de__ __comando__ (CMD) coloque o seguinte comando:
 ```markdown
 C:\Users\SeuUsuário\Desktop\PastaAleatória>echo > arquivo1.bat   
 ```
-## Comandos do arquivo _.bat_
+## Comandos que podem ser usados no arquivo _.bat_
 Escreve na tela
 ```markdown
 ECHO
