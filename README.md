@@ -38,33 +38,50 @@ __Apaga um diretório__:
 ```markdown
 rmdir (nome do diretório)
 ```
-__Exemplo__: ![](https://media.discordapp.net/attachments/850755386549338122/1339348929459785859/image.png?ex=67ae6564&is=67ad13e4&hm=a516f8ff995af84f8ae03d10b80a26997c9ecf2b3bc295201ca70c7eec31dde2&=&format=webp&quality=lossless)
+__Exemplo__: 
+
+![](https://media.discordapp.net/attachments/850755386549338122/1339348929459785859/image.png?ex=67ae6564&is=67ad13e4&hm=a516f8ff995af84f8ae03d10b80a26997c9ecf2b3bc295201ca70c7eec31dde2&=&format=webp&quality=lossless)
 
 ### 
 __Cria um arquivo (neste caso arquivo texto)__: 
 ```markdown
 echo >(nome do arquivo).txt
 ```
-__Exemplo__:![](https://media.discordapp.net/attachments/850755386549338122/1339351034505461900/image.png?ex=67ae675a&is=67ad15da&hm=08625faa305e30b8248bb6dac966570a2fd5d5b672e9e9c3682f2516d309e3c3&=&format=webp&quality=lossless)
+__Exemplo__:
+
+![](https://media.discordapp.net/attachments/850755386549338122/1339351034505461900/image.png?ex=67ae675a&is=67ad15da&hm=08625faa305e30b8248bb6dac966570a2fd5d5b672e9e9c3682f2516d309e3c3&=&format=webp&quality=lossless)
+
 ### 
 __Apaga um arquivo (neste caso arquivo texto)__: 
 ```markdown
 del (nome do arquivo).txt
 ```
-__Exemplo__:![](https://media.discordapp.net/attachments/850755386549338122/1339355715294199878/image.png?ex=67ae6bb6&is=67ad1a36&hm=9cc7288628947b156107fd47fd5ec0b3d449695a84a8c8df85fc137e3832b2c6&=&format=webp&quality=lossless)
+__Exemplo__:
+
+![](https://media.discordapp.net/attachments/850755386549338122/1339355715294199878/image.png?ex=67ae6bb6&is=67ad1a36&hm=9cc7288628947b156107fd47fd5ec0b3d449695a84a8c8df85fc137e3832b2c6&=&format=webp&quality=lossless)
+
 ### 
 __Move um arquivo__
 ```markdown
 move (arquivo) ..\(diretório)
 ```
-__Exemplo__:![](https://media.discordapp.net/attachments/850755386549338122/1339356028160180296/image.png?ex=67ae6c01&is=67ad1a81&hm=83bcf0b85e44b41ea073d63242232f04adf4dcff6ba72a959346dcbfdeb7e7bf&=&format=webp&quality=lossless)
-__Resultado no prompt de comando__: ![](https://media.discordapp.net/attachments/850755386549338122/1339356656995401822/image.png?ex=67ae6c97&is=67ad1b17&hm=18c0c750c9608bf10e03383a94fcd6f90f13dc52e155842c4b06b7e11d50e897&=&format=webp&quality=lossless)
+__Exemplo__:
+
+![](https://media.discordapp.net/attachments/850755386549338122/1339356028160180296/image.png?ex=67ae6c01&is=67ad1a81&hm=83bcf0b85e44b41ea073d63242232f04adf4dcff6ba72a959346dcbfdeb7e7bf&=&format=webp&quality=lossless)
+
+__Resultado no prompt de comando__: 
+
+![](https://media.discordapp.net/attachments/850755386549338122/1339356656995401822/image.png?ex=67ae6c97&is=67ad1b17&hm=18c0c750c9608bf10e03383a94fcd6f90f13dc52e155842c4b06b7e11d50e897&=&format=webp&quality=lossless)
+
 ### 
 __Exibe o conteúdo do arquivo__
 ```markdown
 type (arquivo).txt
 ```
-__Exemplo__:![](https://media.discordapp.net/attachments/850755386549338122/1339357193568387113/image.png?ex=67ae6d17&is=67ad1b97&hm=7b19b1fc121809cbc1b6f461c4f42cfd1cca07cb98011b3bdb29ea337859dc6a&=&format=webp&quality=lossless)
+__Exemplo__:
+
+![](https://media.discordapp.net/attachments/850755386549338122/1339357193568387113/image.png?ex=67ae6d17&is=67ad1b97&hm=7b19b1fc121809cbc1b6f461c4f42cfd1cca07cb98011b3bdb29ea337859dc6a&=&format=webp&quality=lossless)
+
 ### 
 __Renomear arquivo__
 
